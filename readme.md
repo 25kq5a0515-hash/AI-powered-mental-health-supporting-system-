@@ -1,38 +1,26 @@
-🧠 Mood-Chat: AI-Powered Mental Health Monitoring System
-
-
+🧠 Mood-Chat: AI-Powered Mental Health Companion
 🎯 Problem Statement
-Mental health challenges are increasingly prevalent, yet early detection and intervention remain difficult. Many individuals struggle to recognize emotional patterns, leading to prolonged distress without proper support. There's a critical need for accessible, real-time mental health monitoring tools that can:
 
-Detect emotional distress patterns before they escalate
-Provide immediate, personalized support and guidance
-Alert healthcare providers when professional help is needed
-Empower individuals to take control of their mental wellbeing
+Mental health issues are becoming more common, but early signs often go unnoticed. Many people don’t track how they feel daily, and it’s hard to explain emotional changes to therapists. There’s a real need for a simple tool that can help people:
 
-Current Challenges:
+Detect emotional distress early
 
-Lack of daily mood tracking accessibility
-No real-time alerts for concerning patterns
-Limited personalized mental health support
-Difficulty communicating mood changes to therapists
+Get instant, personalized support
 
+Notify care providers if needed
 
-💡 Solution: Mood-Chat MVP
-Mood-Chat is an intelligent, AI-powered mental health companion that enables users to:
+Take control of their mental well-being
 
-Log Daily Moods: Express feelings through natural language text entries
-Receive AI Analysis: Advanced sentiment analysis detects emotional patterns
-Get Personalized Advice: Intelligent suggestions based on detected mood
-Monitor Trends: Visual analytics of mood patterns over weeks/months
-Receive Alerts: Notifications when concerning mood patterns are detected (2+ weeks negative)
-Track Progress: Comprehensive metrics and health status reports
+💡 Our Solution: Mood-Chat MVP
 
-Key Features
-FeatureDescription🤖 AI Mood DetectionUses HuggingFace transformers for accurate sentiment analysis📝 Daily LoggingSimple, intuitive interface for mood entry💡 Smart SuggestionsPersonalized advice based on detected mood📊 Analytics DashboardVisual insights into mood trends and patterns⚠️ Alert SystemNotifications for prolonged negative mood (70%+ negative days in 2 weeks)🆘 Resource LinksDirect access to mental health resources and hotlines🔒 Privacy FirstAll data stored locally, never shared or uploaded
+Mood-Chat is a smart, AI-based tool that helps users monitor their mood, get helpful suggestions, and understand emotional patterns over time.
 
-🛠️ Technology Stack
-Backend
-
-Python 3.8+ - Core programming language
-
-HuggingFace Transformers - Pre-traine
+🌟 Key Features
+Feature	Description
+🤖 AI Mood Detection	Detects emotions using advanced sentiment analysis (HuggingFace Transformers)
+📝 Daily Mood Logging	Easy-to-use interface to write and save daily feelings
+💡 Smart Suggestions	Personalized tips based on mood entries
+📊 Mood Analytics Dashboard	See how your mood changes over time with charts
+⚠️ Alert System	Sends alerts if negative moods persist (e.g. 70%+ negative in 2 weeks)
+🆘 Help Resources	Direct links to mental health support and hotlines
+🔒 Privacy First	All data is stored locally – nothing is uploaded or shared
