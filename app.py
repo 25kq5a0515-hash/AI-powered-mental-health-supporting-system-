@@ -367,4 +367,5 @@ elif page == "ℹ️ About":
     ---
     
     **Made with ❤️ for your mental wellbeing**
+
     """)
